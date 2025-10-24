@@ -7,7 +7,7 @@ public class HelloWorld {
         String kalimat1 = "saya bapak budi";
         String kalimat2 = "saya ibu budi";
         System.out.println("Berikut : " + kalimat1 + " " + kalimat2);
-
+        System.out.println("ahaa bismillah lancar dan sesuai modul");
     }
 
 }
